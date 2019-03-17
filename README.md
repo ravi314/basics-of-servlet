@@ -1,1 +1,1 @@
-# my-node-project
+# my-servlet-project
