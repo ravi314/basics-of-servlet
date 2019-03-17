@@ -1,0 +1,6 @@
+<form action="MyServlet">
+
+Name:<input type="text" name="vivas"/>
+<input type="submit" value="go"/>
+
+</form>
